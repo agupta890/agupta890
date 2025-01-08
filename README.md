@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **react**
 
-- 📫 How to reach me **ng607301@gmail.com**
+- 📫 How to reach me **ansh890hh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
