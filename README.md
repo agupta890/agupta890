@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/gwansh5" target="blank"><img src="https://img.shields.io/twitter/follow/gwansh5?logo=twitter&style=for-the-badge" alt="gwansh5" /></a> </p>
 
-- 🌱 I’m looking for **Frontend & Mern stack Developer Role**
+- 🌱 I’m Working as **Mern stack Developer** at ANU Extrusions PVT. LTD.
 
 - 📫 How to reach me **ansh890hh@gmail.com**
 
